@@ -1,0 +1,13 @@
+# Node.js modülleri
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ortaya çıkan dosyalar
+.env
+.DS_Store
+.idea/
+.vscode/
+dist/
+coverage/
